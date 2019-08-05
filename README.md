@@ -1,7 +1,7 @@
 
 # Asymptotic Dictionary Search Time Study
 
-The notebook `AsymptoticDictionarySearchTime.ipynb` compares the time complexity of the search operation for a dictionary data structure using several different data structures as underlying implementations of the dictionary. The underlying implementations include:
+The notebook `AsymptoticDictionarySearchTime.ipynb` compares the time complexity of the search operation for a dictionary using several different data structures as underlying implementations of the dictionary. The underlying implementations include:
 
  - Sorted and unsorted singly-linked lists
  - Sorted and unsorted doubly-linked lists
